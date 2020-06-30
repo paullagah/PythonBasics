@@ -1,5 +1,5 @@
 import random
 
 
-def dice(random):
-    return random.randint(1,7)
+def throw():
+    return random.randint(1, 7)
