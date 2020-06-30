@@ -8,7 +8,7 @@ def grading(hw, assess, fexam):
     return hw + assess + fexam
 
 
-print(grading(hw, assess, fexam), 'Is your total result')
+print(student, grading(hw, assess, fexam), 'Is your total result')
 
 if grading(hw, assess, fexam) >= (175 * 0.7):
     print("You got an A!")
