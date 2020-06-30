@@ -2,4 +2,4 @@ import random
 
 
 def throw():
-    return random.randint(1, 7)
+    return random.randint(1, 6)
