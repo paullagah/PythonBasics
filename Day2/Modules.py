@@ -1,4 +1,4 @@
-from dice import dice
+import dice.py
 
 print("First dice throw result: ", dice.dice)
 print("Second dice throw result: ", dice.dice)
