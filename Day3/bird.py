@@ -9,3 +9,5 @@ class Owl(Bird):
 
     def reproduce(self):
         self.babies += 1
+
+        return babies
